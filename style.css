@@ -3,9 +3,9 @@
     padding: 0;
 }
 
-/*      Jutsu Proibido
+/*     Overdose de Poze
 body {
-    background-image: url(./pozeRosto.jpg);
+    background-image: url(./Assets/pozeRosto.jpg);
 }
 */
 
@@ -45,5 +45,5 @@ body {
 
 .speed_button:hover {
     color: transparent;
-    background-image: url(./pozePequeno.jpg);
+    background-image: url(./Assets/pozePequeno.jpg);
 }
